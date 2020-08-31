@@ -1,0 +1,101 @@
+body {
+  background-color: rgb(37,174,128);
+  text-align: center;
+  margin: 0;
+  font-family: 'Baloo Da 2', cursive;
+}
+
+nav {
+  text-align: right;
+  padding: 15px;
+  background-color: grey;
+}
+
+div {
+  width: 50%;
+  margin: 20px auto;
+}
+
+
+footer {
+  text-align: center;
+  background-color: black;
+  padding: 20px 0 10px;
+  margin-top: 25px;
+}
+
+a {
+  text-decoration: none;
+  margin:0 15px;
+  color: cyan;
+}
+
+table {
+  margin: auto;
+}
+
+ul {
+  text-align: justify;
+}
+
+textarea {
+  margin: 20px auto;
+}
+
+h1 {
+  font-family: 'Acme', sans-serif;
+}
+
+h2 {
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+h3 {
+  font-family: 'Patrick Hand', cursive;
+}
+
+.skills {
+
+}
+.copy {
+  color:white;
+  margin-bottom: 0;
+  font-size: 0.75rem;
+}
+a:hover {
+  color: red;
+  font-style: oblique;
+}
+
+.btn {
+	background:linear-gradient(to bottom, #14c7af 5%, #1ee6b4 100%);
+	background-color:#14c7af;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Kanit', sans-serif;
+	font-size:17px;
+	padding:12px 19px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #1ee6b4 5%, #14c7af 100%);
+	background-color:#1ee6b4;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+p a {
+  margin:0;
+  text-decoration: none;
+  color: #212529;
+}
+p a:hover {
+  color: blue;
+  font-style: oblique;
+}
